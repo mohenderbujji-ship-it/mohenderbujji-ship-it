@@ -1,7 +1,7 @@
 ## HI there 👋 It's me Mohender
 
 Information Technology Student
-<img align="right" width="370" height="290" src="https://tenor.com/search/hacker-animated-gif-gifs">
+<img align="right" width="370" height="290" src="https://igflrs.artstation.com/projects/28gYKa">
 
 -👨‍💻 I'm currenly learning fullstack (java)
 -🧑‍🎓 I'm a BTECH student(IT) final year
