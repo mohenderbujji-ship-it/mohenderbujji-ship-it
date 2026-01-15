@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mohender
 
 Information Technology Student📖
-<img align="right" width="370" height="290" src="https://media.tenor.com/N--OnDx9xAQAAAAM/unigrid-decentralization.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/fb/c5/00/fbc50029fec5ff982777536682c817e3.gif">
 - 👋 Hi there am mohender                                                 
 - 👨‍💻 Currently learning fullstack in java
 - 🧐 Looking for an internship
