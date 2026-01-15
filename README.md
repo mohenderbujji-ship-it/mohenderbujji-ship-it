@@ -2,7 +2,7 @@
 
 Information Technology Student📖
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/fb/c5/00/fbc50029fec5ff982777536682c817e3.gif">
-- 👋 Hi there am mohender                                                 
+- 👋 Hi its me                                              
 - 👨‍💻 Currently learning fullstack in java
 - 🧐 Looking for an internship
 - 🧑‍🎓 BTECH final year Student
